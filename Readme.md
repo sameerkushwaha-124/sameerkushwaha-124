@@ -1,10 +1,10 @@
 ![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
-<h1 align="center">Hi 👋, I'm Dheeraj Kriplani</h1>
+<h1 align="center">Hi 👋, I'm Sameer Kushwaha</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj26-02&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj26-02" /> </p>
-<p align="left"><img src="https://img.shields.io/badge/Total%20Repos-24-8b00ff" alt="Total Repositories" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkushwaha-124&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"><img src="https://img.shields.io/badge/Total%20Repos-19-8b00ff" alt="Total Repositories" /></p>
 
 - 🔭 I’m currently working on **Swipe2Clean**
 
