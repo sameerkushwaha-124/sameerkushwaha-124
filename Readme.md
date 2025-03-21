@@ -10,19 +10,19 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://dheeraj26-02.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available in my [Portfolio]((https://sameerkushwaha-124.github.io/Portfolio/))
 
 - 💬 Ask me about **React, MongoDB**
 
-- 📫 How to reach me **dheeraj8483@gmail.com**
+- 📫 How to reach me **sameerkushwaha2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume]((https://docs.google.com/document/d/1J41EnTh1oAen_PBSGG8uBIRH1Q-F2EHk/edit?usp=drive_link&ouid=107427414778062011282&rtpof=true&sd=true))
 
-- ⚡ Hobbies **I am a Guitarist 🎸**
+- ⚡ Hobbies **I am a Esports Gamer🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dheerajkriplani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerajkriplani" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/sameerkushwaha124/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerajkriplani" height="30" width="40" /></a>
 &nbsp;<a href="https://www.youtube.com/c/codehacks26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codehacks26" height="30" width="40" /></a>
 &nbsp;<a href="https://www.hackerrank.com/@dheeraj_598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dheeraj_598" height="30" width="40" /></a>
 &nbsp;<a href="https://codeforces.com/profile/dheeraj_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_26" height="30" width="40" /></a>
