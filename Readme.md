@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkushwaha-124&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <p align="left"><img src="https://img.shields.io/badge/Total%20Repos-19-8b00ff" alt="Total Repositories" /></p>
 
-- 🔭 I’m currently working on **Swipe2Clean**
+- 🔭 I’m currently working on **Bookmate & Chat-App**
 
 - 🌱 I’m currently learning **MERN Stack**
 
